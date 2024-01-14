@@ -1,0 +1,51 @@
+.headone{
+    display: flex;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 49px;
+    font-weight: 700;
+    line-height: 52px;
+    text-align: center;
+   
+}
+.paraone{
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.buttton{
+    justify-content: center;
+    border-left-width: 0;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-style: none;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    outline: none;
+    box-shadow: none;
+    text-decoration: none;
+    background-color: white;
+    color:black;
+    transition-duration: 200ms;
+    transition-timing-function: cubic-bezier(0, 0, 1, 1);
+    cursor: pointer;
+    margin-left: 0;
+    margin-top: 12px;
+    margin-right: 0;
+    margin-bottom: 0;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}

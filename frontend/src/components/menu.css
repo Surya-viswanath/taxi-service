@@ -1,0 +1,16 @@
+.butt:hover{
+    background-color:rgb(81 77 77);
+
+}
+.butt{
+    background-color: transparent;
+    border:none;
+    border-radius: 50px;
+    text-align: center;
+    border-width: 0px;
+    border-style: none;
+    outline: none;
+    box-shadow: none;
+    text-decoration: none;
+    appearance: none;
+}

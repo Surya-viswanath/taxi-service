@@ -1,0 +1,25 @@
+.homeh{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 52px;
+
+    text-align: left;
+
+
+}
+.homep{
+    padding-top: 5%;
+}
+.homepp{
+    padding-top: 6%;
+}
+.butttt{
+    background-color: black;
+    color:white;
+    border: none;
+}
+.butttt:hover{
+    background-color: black;
+    color:white;
+}
